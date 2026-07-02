@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshitarai/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshitarai/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dakshitarai/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/dakshitarai/Leetcode/tree/master/0414-third-maximum-number) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshitarai/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/dakshitarai/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/dakshitarai/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dakshitarai/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/dakshitarai/Leetcode/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
 | ------- |
