@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dakshitarai/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dakshitarai/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshitarai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/dakshitarai/Leetcode/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/dakshitarai/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/dakshitarai/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dakshitarai/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshitarai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/dakshitarai/Leetcode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/dakshitarai/Leetcode/tree/master/0455-assign-cookies) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/dakshitarai/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
