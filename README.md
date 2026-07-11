@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/dakshitarai/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/dakshitarai/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/dakshitarai/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1859-sorting-the-sentence](https://github.com/dakshitarai/Leetcode/tree/master/1859-sorting-the-sentence) |
 ## Hash Table
 |  |
 | ------- |
@@ -119,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/dakshitarai/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/dakshitarai/Leetcode/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/dakshitarai/Leetcode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
