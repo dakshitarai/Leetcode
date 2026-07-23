@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/dakshitarai/Leetcode/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/dakshitarai/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/dakshitarai/Leetcode/tree/master/1773-count-items-matching-a-rule) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dakshitarai/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -129,4 +130,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/dakshitarai/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/dakshitarai/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1859-sorting-the-sentence](https://github.com/dakshitarai/Leetcode/tree/master/1859-sorting-the-sentence) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dakshitarai/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
