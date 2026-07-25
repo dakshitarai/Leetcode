@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/dakshitarai/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/dakshitarai/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dakshitarai/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshitarai/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0168-excel-sheet-column-title](https://github.com/dakshitarai/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dakshitarai/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/dakshitarai/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/dakshitarai/Leetcode/tree/master/0709-to-lower-case) |
