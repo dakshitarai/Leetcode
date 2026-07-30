@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/dakshitarai/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshitarai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/dakshitarai/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2000-reverse-prefix-of-word](https://github.com/dakshitarai/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/dakshitarai/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1859-sorting-the-sentence](https://github.com/dakshitarai/Leetcode/tree/master/1859-sorting-the-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/dakshitarai/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2000-reverse-prefix-of-word](https://github.com/dakshitarai/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
 | ------- |
@@ -164,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1668-maximum-repeating-substring](https://github.com/dakshitarai/Leetcode/tree/master/1668-maximum-repeating-substring) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/dakshitarai/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
