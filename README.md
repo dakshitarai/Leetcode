@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/dakshitarai/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshitarai/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/dakshitarai/Leetcode/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/dakshitarai/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dakshitarai/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -174,11 +175,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/dakshitarai/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/dakshitarai/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dakshitarai/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/dakshitarai/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/dakshitarai/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
