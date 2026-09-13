@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/dakshitarai/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dakshitarai/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/dakshitarai/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/dakshitarai/Leetcode/tree/master/0709-to-lower-case) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dakshitarai/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/dakshitarai/Leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dakshitarai/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
 | [1668-maximum-repeating-substring](https://github.com/dakshitarai/Leetcode/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
@@ -184,4 +186,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/dakshitarai/Leetcode/tree/master/0496-next-greater-element-i) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
