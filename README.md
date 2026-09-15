@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/dakshitarai/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/dakshitarai/Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/dakshitarai/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/dakshitarai/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0905-sort-array-by-parity](https://github.com/dakshitarai/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/dakshitarai/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/dakshitarai/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/dakshitarai/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/dakshitarai/Leetcode/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/dakshitarai/Leetcode/tree/master/0709-to-lower-case) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/dakshitarai/Leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/dakshitarai/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/dakshitarai/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/dakshitarai/Leetcode/tree/master/1309-decrypt-string-from-alphabet-to-integer-mapping) |
